@@ -1,0 +1,9 @@
+Nom de l'équipe: Snowdon
+Membres de l'équipe:
+Charlotte Sarrazin
+Maxim Cousineau
+Nicolas Coutu
+Tom Gautier
+
+Entrepôt git: https://github.com/Flamarius/LOG8371_TP2
+Lien vidéo youtube: https://youtu.be/rgLTvwNGvYU
